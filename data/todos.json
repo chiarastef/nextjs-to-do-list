@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy milk"
+    },
+    {
+      "id": "2",
+      "text": "buy cookies"
+    },
+    {
+      "id": "3",
+      "text": "go to gym"
+    },
+    {
+      "id": "5",
+      "text": "go to work"
+    },
+    {
+      "id": "58ad9caf-f807-4308-8bff-0e39613d383c",
+      "text": "learn italian"
+    }
+  ]
+}
